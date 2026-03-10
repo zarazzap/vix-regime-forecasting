@@ -21,17 +21,14 @@ The analysis demonstrates that VIX regime persistence is so strong (lag-1 autoco
 ## Repository Structure
 
 ```
-├── analysis_v3.ipynb          # Main analysis notebook (end-to-end pipeline)
-├── VIX_History.csv            # Raw VIX daily OHLC data
-├── VIX_predictive_analytics_final_report.docx  # Final submission report
-├── Predictive Analytics report.docx            # Draft report (reference)
-├── MSIN0097_ Predictive Analytics 25-26 Individual Coursework.pdf  # Assessment brief
-├── MSIN0097_Marking_Feedback_1.docx            # Examiner feedback on draft
-├── screenshots/               # Agent interaction evidence & notebook outputs
-├── requirements.txt           # Python dependencies
-├── .gitignore                 # Git exclusions
-└── README.md                  # This file
+├── analysis_v3.ipynb   # Main analysis notebook (end-to-end pipeline)
+├── VIX_History.csv     # Raw VIX daily OHLC data
+├── requirements.txt    # Python dependencies
+├── .gitignore          # Git exclusions
+└── README.md           # This file
 ```
+
+> **Note:** The final report (`VIX_predictive_analytics_final_report.docx`) and agent workflow screenshots are submitted separately via Moodle. This repository contains only the files necessary for reproducing the analysis.
 
 ## Methodology
 
